@@ -29,7 +29,7 @@ include "atas.php";
 			<div class="container">
                 <div class="row">
 					<!-- right part start -->
-                    <div class="col-lg-4 d-flex">
+                    <div class="col-lg-8 d-flex">
                         <div class="p-a30 m-b30 border contact-area border-1  align-self-stretch">
 							<h2 class="m-b10">Alamat</h2>
 							
@@ -65,49 +65,47 @@ PONTIANAK, KALIMANTAN BARAT</p>
                     </div>
                     <!-- right part END -->
                     <!-- Left part start -->
-                    <div class="col-lg-8">
-                        <div class="p-a30 bg-gray clearfix m-b30 ">
-							<h2>Kritik, Saran dan Pertanyaan</h2>
-							<div class="dzFormMsg"></div>
-							<form method="post" class="dzForm" action="#">
-							<input type="hidden" value="Contact" name="dzToDo" >
-                                <div class="row">
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                                <input name="dzName" type="text" required class="form-control" placeholder="Nama">
-                                            </div>
-                                        </div>
+                    <div class="col-lg-4">
+                
+                        <div class="col-lg-12 col-md-6 col-sm-6 dez-team">
+							<div class="dez-box m-b30">
+							
+								<div class="p-lr10 p-tb20 bg-yellow text-center">
+									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf_7Gg0_RXb6jPuFTF0ld2PgWvtuCHSCDs0A52lXGn4DrGx1Q/viewform">FORM KEPUASAN PASIEN RAJAL</a></h4>
+                                        <p class="m-b5">PASIEN RALAN</p>
                                     </div>
-                                    <div class="col-md-6">
-                                        <div class="form-group">
-                                            <div class="input-group"> 
-											    <input name="dzEmail" type="email" class="form-control" required  placeholder="Email" >
-                                            </div>
-                                        </div>
+							</div>
+						</div>
+					
+						
+						
+						<div class="col-lg-12 col-md-6 col-sm-6 dez-team">
+							<div class="dez-box m-b30">
+							
+								<div class="p-lr10 p-tb20 bg-yellow text-center">
+									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4n5mI5Rvaf5ld10siTdtwghIApPgLOhC3CbFtvN_e1eXP5w/viewform">FORM KEPUASAN PASIEN RANAP</a></h4>
+                                        <p class="m-b5">PASIEN RANAP</p>
                                     </div>
-									<div class="col-md-6">
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                                <input name="dzOther[Phone]" type="text" required class="form-control" placeholder="Telepon">
-                                            </div>
-                                        </div>
-                                    </div>
-									
-                                    <div class="col-md-12">
-                                        <div class="form-group">
-                                            <div class="input-group">
-                                                <textarea name="dzMessage" rows="4" class="form-control" required placeholder="Pesan..."></textarea>
-                                            </div>
-                                        </div>
-                                    </div>
-								
-                                    <div class="col-md-12">
-                                        <button name="submit" type="submit" value="Submit" class="site-button "> <span>Kirim</span> </button>
-                                    </div>
-                                </div>
-                            </form>
-                        </div>
+							</div>
+						</div>
+						<BR/>
+						<div class="col-lg-12 col-md-6 col-sm-6 dez-team">
+							<div class="dez-box m-b30">
+							
+								<div class="p-lr10 p-tb20 bg-yellow text-center">
+									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSekYNxCSIF-KutDK0Ang84GrPv6kRelh0j6Wwd_y6diWOASww/viewform">FORM PENGADUAN</a></h4>
+									<p class="m-b5">PENGADUAN, KOMPLAIN, KRITIK, SARAN</p>
+								</div>
+							</div>
+						</div>
+						
+				
+						
+					
+						
+						
+						
+                 
                     </div>
                     <!-- Left part END -->
                     

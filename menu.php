@@ -52,15 +52,20 @@
 												    <li><a href="fasilitas.php">Fasilitas</a></li>
                                     </ul>
                                 </li>
+
+                                <li class=""> <a href="javascript:;">Publikasi<i class="fa fa-chevron-down"></i></a>
+                                    <ul class="sub-menu">
+                                     <li><a href="galeri.php">Galeri</a></li>
+												    <li><a href="form.php">Penilaian Klinik</a></li>
+                                    </ul>
+                                </li>
 								
 								
 								  <li class=""> <a href="dokter.php">Dokter</a>
                                    
                                 </li>
 								
-								 <li class=""> <a href="galeri.php">Galeri</a>
-                                   
-                                </li>
+								
 								
 								
 								 <li class=""> <a href="kontak.php">Kontak</a>
