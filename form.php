@@ -47,13 +47,15 @@ include "atas.php";
                           </div>
                 <div class="section-content ">
                     <div class="row">
+                        
                         <div class="col-lg-4 col-md-6 col-sm-6 dez-team">
 							<div class="dez-box m-b30">
-							
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf_7Gg0_RXb6jPuFTF0ld2PgWvtuCHSCDs0A52lXGn4DrGx1Q/viewform">
 								<div class="p-lr10 p-tb20 bg-yellow text-center">
-									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSf_7Gg0_RXb6jPuFTF0ld2PgWvtuCHSCDs0A52lXGn4DrGx1Q/viewform">FORM KEPUASAN PASIEN RAJAL</a></h4>
+									<h4 class="dez-title text-uppercase m-a5">FORM KEPUASAN PASIEN RAJAL</h4>
                                         <p class="m-b5">PASIEN RALAN</p>
                                     </div>
+                                    </a>
 							</div>
 						</div>
 					
@@ -61,21 +63,23 @@ include "atas.php";
 						
 						<div class="col-lg-4 col-md-6 col-sm-6 dez-team">
 							<div class="dez-box m-b30">
-							
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4n5mI5Rvaf5ld10siTdtwghIApPgLOhC3CbFtvN_e1eXP5w/viewform">
 								<div class="p-lr10 p-tb20 bg-yellow text-center">
-									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSc4n5mI5Rvaf5ld10siTdtwghIApPgLOhC3CbFtvN_e1eXP5w/viewform">FORM KEPUASAN PASIEN RANAP</a></h4>
+									<h4 class="dez-title text-uppercase m-a5">FORM KEPUASAN PASIEN RANAP</h4>
                                         <p class="m-b5">PASIEN RANAP</p>
                                     </div>
+                                    </a>
 							</div>
 						</div>
 						
 						<div class="col-lg-4 col-md-6 col-sm-6 dez-team">
 							<div class="dez-box m-b30">
-							
+							<a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSekYNxCSIF-KutDK0Ang84GrPv6kRelh0j6Wwd_y6diWOASww/viewform">
 								<div class="p-lr10 p-tb20 bg-yellow text-center">
-									<h4 class="dez-title text-uppercase m-a5"><a target="_blank" href="https://docs.google.com/forms/d/e/1FAIpQLSekYNxCSIF-KutDK0Ang84GrPv6kRelh0j6Wwd_y6diWOASww/viewform">FORM PENGADUAN</a></h4>
+									<h4 class="dez-title text-uppercase m-a5">FORM PENGADUAN</h4>
 									<p class="m-b5">PENGADUAN, KOMPLAIN, KRITIK, SARAN</p>
 								</div>
+                                </a>
 							</div>
 						</div>
 						
